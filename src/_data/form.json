@@ -1,0 +1,79 @@
+{
+    "zip1": {
+        "cancelspace": true,
+        "autonext": 3,
+        "restriction": "number"
+    },
+    "zip2": {
+        "cancelspace": true,
+        "autoprev": true,
+        "restriction": "number"
+    },
+    "zip": {
+        "cancelspace": true,
+        "insert": "zip"
+    },
+    "mobile-tel1": {
+        "cancelspace": true,
+        "autonext": 3
+    },
+    "mobile-tel2": {
+        "cancelspace": true,
+        "autoprev": true,
+        "autonext": 3
+    },
+    "mobile-tel3": {
+        "cancelspace": true,
+        "autoprev": true
+    },
+    "tel": {
+        "cancelspace": true
+    },
+    "email": {
+        "cancelspace": true,
+        "remove": "[name=email-confirmation]"
+    },
+    "email-confirmation": {
+        "cancelspace": true
+    },
+    "credit": {
+        "cancelspace": true,
+        "credit": true,
+        "insert": "credit",
+        "restriction": "credit"
+    },
+    "credit1": {
+        "cancelspace": true,
+        "autonext": 4,
+        "credit": true
+    },
+    "credit2": {
+        "cancelspace": true,
+        "autoprev": true,
+        "autonext": 4
+    },
+    "credit3": {
+        "cancelspace": true,
+        "autoprev": true,
+        "autonext": 4
+    },
+    "credit4": {
+        "cancelspace": true,
+        "autoprev": true
+    },
+    "full2half": {
+        "full2half": true
+    },
+    "fullKana2halfKana": {
+        "fullKana2halfKana": true
+    },
+    "half2full": {
+        "half2full": true
+    },
+    "halfKana2fullKana": {
+        "halfKana2fullKana": true
+    },
+    "remove": {
+        "remove": "[name=remove2]"
+    }
+}

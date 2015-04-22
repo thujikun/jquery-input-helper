@@ -1,0 +1,24 @@
+{
+  "name": "jquery-input-helper",
+  "version": "1.0.0",
+  "authors": [
+    "thujikun"
+  ],
+  "description": "Input helper jQuery plugin",
+  "main": "dist/jquery-input-helper.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "input helper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "2.1.3"
+  }
+}

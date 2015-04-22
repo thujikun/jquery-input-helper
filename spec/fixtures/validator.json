@@ -1,0 +1,286 @@
+[
+    {
+        "name": "required",
+        "unit": {
+            "required": true
+        }
+    },
+    {
+        "name": "required2",
+        "unit": {
+            "required": true
+        }
+    },
+    {
+        "name": "required-check",
+        "unit": {
+            "required-check": true
+        }
+    },
+    {
+        "name": "required-check2",
+        "unit": {
+            "required-check": true
+        }
+    },
+    {
+        "name": "required-check3",
+        "unit": {
+            "required-check": 2
+        }
+    },
+    {
+        "name": "required-check4",
+        "unit": {
+            "required-check": 2
+        }
+    },
+    {
+        "name": "maxlength",
+        "unit": {
+            "maxlength": 3
+        }
+    },
+    {
+        "name": "maxlength2",
+        "unit": {
+            "maxlength": 3
+        }
+    },
+    {
+        "name": "minlength",
+        "unit": {
+            "minlength": 3
+        }
+    },
+    {
+        "name": "minlength2",
+        "unit": {
+            "minlength": 3
+        }
+    },
+    {
+        "name": "maxnum",
+        "unit": {
+            "maxnum": 100
+        }
+    },
+    {
+        "name": "maxnum2",
+        "unit": {
+            "maxnum": 100
+        }
+    },
+    {
+        "name": "minnum",
+        "unit": {
+            "minnum": 100
+        }
+    },
+    {
+        "name": "minnum2",
+        "unit": {
+            "minnum": 100
+        }
+    },
+    {
+        "name": "number",
+        "unit": {
+            "format": "number"
+        }
+    },
+    {
+        "name": "number2",
+        "unit": {
+            "format": "number"
+        }
+    },
+    {
+        "name": "half-char",
+        "unit": {
+            "format": "half-char"
+        }
+    },
+    {
+        "name": "half-char2",
+        "unit": {
+            "format": "half-char"
+        }
+    },
+    {
+        "name": "half",
+        "unit": {
+            "format": "half"
+        }
+    },
+    {
+        "name": "half2",
+        "unit": {
+            "format": "half"
+        }
+    },
+    {
+        "name": "url",
+        "unit": {
+            "format": "url"
+        }
+    },
+    {
+        "name": "url2",
+        "unit": {
+            "format": "url"
+        }
+    },
+    {
+        "name": "email",
+        "unit": {
+            "format": "email"
+        }
+    },
+    {
+        "name": "email2",
+        "unit": {
+            "format": "email"
+        }
+    },
+    {
+        "name": "all-kana",
+        "unit": {
+            "format": "all-kana"
+        }
+    },
+    {
+        "name": "all-kana2",
+        "unit": {
+            "format": "all-kana"
+        }
+    },
+    {
+        "name": "all-char",
+        "unit": {
+            "format": "all-char"
+        }
+    },
+    {
+        "name": "all-char2",
+        "unit": {
+            "format": "all-char"
+        }
+    },
+    {
+        "name": "date",
+        "unit": {
+            "format": "date"
+        }
+    },
+    {
+        "name": "date2",
+        "unit": {
+            "format": "date"
+        }
+    },
+    {
+        "name": "credit",
+        "unit": {
+            "format": "credit"
+        }
+    },
+    {
+        "name": "credit2",
+        "unit": {
+            "format": "credit"
+        }
+    },
+    {
+        "name": "regexp",
+        "unit": {
+            "regexp": "^a"
+        }
+    },
+    {
+        "name": "regexp2",
+        "unit": {
+            "regexp": "^a"
+        }
+    },
+    {
+        "name": "relation-mail-body",
+        "relation": [
+            {
+                "type": "email",
+                "key": "email",
+                "role": "body"
+            }
+        ]
+    },
+    {
+        "name": "relation-mail-confirmation",
+        "relation": [
+            {
+                "type": "email",
+                "key": "email",
+                "role": "confirmation"
+            }
+        ]
+    },
+    {
+        "name": "relation-mail-body2",
+        "relation": [
+            {
+                "type": "email",
+                "key": "email2",
+                "role": "body"
+            }
+        ]
+    },
+    {
+        "name": "relation-mail-confirmation2",
+        "relation": [
+            {
+                "type": "email",
+                "key": "email2",
+                "role": "confirmation"
+            }
+        ]
+    },
+    {
+        "name": "relation-mail-body3",
+        "relation": [
+            {
+                "type": "email",
+                "key": "email3",
+                "role": "body"
+            }
+        ]
+    },
+    {
+        "name": "relation-mail-confirmation3",
+        "relation": [
+            {
+                "type": "email",
+                "key": "email3",
+                "role": "confirmation"
+            }
+        ]
+    },
+    {
+        "name": "relation-mail-body4",
+        "relation": [
+            {
+                "type": "email",
+                "key": "email4",
+                "role": "body"
+            }
+        ]
+    },
+    {
+        "name": "relation-mail-confirmation4",
+        "relation": [
+            {
+                "type": "email",
+                "key": "email4",
+                "role": "confirmation"
+            }
+        ]
+    }
+]
